@@ -12,7 +12,7 @@
   
 </div>
 
-# 👋 Hi, I'm Otto Muraca
+# 👋 Hi, I'm Otavio Vicario but you can call me Otto. :) 
 
 ## 🚀 Financial Data & API Engineer
 Focusing on **Financial Data Engineering, API integrations, and automation**.
