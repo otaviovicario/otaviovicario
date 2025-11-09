@@ -35,11 +35,11 @@ Focusing on **Financial Data Engineering, API integrations, and automation**.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Woking On
+
+- [Financial Micro-SaaS](#) — helping accountants and financial specialists organize and analyze client finances.
 - [Currency & Crypto Rate API](https://github.com/otaviovicario/Currency-Crypto-Rate-API) — Real-time exchange rates for any currency or crypto to BRL  
-- [Bank Statement Parser](#) — Converts bank PDFs to structured spreadsheets  
-- [FII Yield Calculator](#) — Investment simulation and yield calculation  
-- [Payments Integration API](#) — Integration with Mercado Pago payments  
+
 
 ---
 
