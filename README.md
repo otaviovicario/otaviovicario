@@ -56,6 +56,7 @@ Smart execution queue that organizes the repair shop's day by itself — service
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Asaas](https://img.shields.io/badge/Asaas-00A859?style=flat-square)
 
 [![Website](https://img.shields.io/badge/box0.com.br-live-brightgreen?style=flat-square)](https://box0.com.br)
 [![Free Trial](https://img.shields.io/badge/Free%20Trial-14%20days-blue?style=flat-square)](https://box0.com.br)
