@@ -40,6 +40,25 @@ Upload PDF bank statements, get instant AI-powered insights, automatic transacti
 
 ---
 
+### 🔧 [BoxZero](https://box0.com.br) — SaaS · Live
+> Um copiloto inteligente para a sua oficina.
+
+Smart execution queue that organizes the repair shop's day by itself — service orders, estimates, inventory, automatic parts quoting and WhatsApp review reminders. The system suggests, the shop decides. Built for auto repair, auto electric, detailing and body shops.
+
+[![Website](https://img.shields.io/badge/box0.com.br-live-brightgreen?style=flat-square)](https://box0.com.br)
+[![Free Trial](https://img.shields.io/badge/Free%20Trial-14%20days-blue?style=flat-square)](https://box0.com.br)
+
+---
+
+### 📸 CRM Foto & Vídeo — SaaS · In Development
+> The job at the center of everything.
+
+CRM and operations platform for photographers, videographers and production companies — leads, jobs, scheduling, budgets, contracts, payments and client gallery delivery, with AI-powered recommendations for locations, packages and timing. Bilingual (PT/EN), multi-currency (BRL/USD), built for Brazil + US.
+
+[![Status](https://img.shields.io/badge/status-in%20development-yellow?style=flat-square)]()
+
+---
+
 ### 🏦 [BankKit](https://github.com/otaviovicario/bankkit) — Open Source · `pip install bankkit`
 > Python SDK for validating banking data — built for Latin America, ready for the world.
 
