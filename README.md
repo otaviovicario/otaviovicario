@@ -53,6 +53,8 @@ Upload PDF bank statements, get instant AI-powered insights, automatic transacti
 Smart execution queue that organizes the repair shop's day by itself — service orders, estimates, inventory, automatic parts quoting and WhatsApp review reminders. The system suggests, the shop decides. Built for auto repair, auto electric, detailing and body shops.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
 [![Website](https://img.shields.io/badge/box0.com.br-live-brightgreen?style=flat-square)](https://box0.com.br)
