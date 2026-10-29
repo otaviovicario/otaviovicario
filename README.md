@@ -35,6 +35,13 @@ Focusing on **Financial Data Engineering, API integrations, and automation**.
 
 Upload PDF bank statements, get instant AI-powered insights, automatic transaction categorization, cash flow visualization, and client management — built for accountants and financial professionals.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
 [![Website](https://img.shields.io/badge/statlys.com-live-brightgreen?style=flat-square)](https://statlys.com)
 [![Free Trial](https://img.shields.io/badge/Free%20Trial-available-blue?style=flat-square)](https://statlys.com/auth/register/)
 
@@ -45,6 +52,9 @@ Upload PDF bank statements, get instant AI-powered insights, automatic transacti
 
 Smart execution queue that organizes the repair shop's day by itself — service orders, estimates, inventory, automatic parts quoting and WhatsApp review reminders. The system suggests, the shop decides. Built for auto repair, auto electric, detailing and body shops.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+
 [![Website](https://img.shields.io/badge/box0.com.br-live-brightgreen?style=flat-square)](https://box0.com.br)
 [![Free Trial](https://img.shields.io/badge/Free%20Trial-14%20days-blue?style=flat-square)](https://box0.com.br)
 
@@ -54,6 +64,12 @@ Smart execution queue that organizes the repair shop's day by itself — service
 > The job at the center of everything.
 
 CRM and operations platform for photographers, videographers and production companies — leads, jobs, scheduling, budgets, contracts, payments and client gallery delivery, with AI-powered recommendations for locations, packages and timing. Bilingual (PT/EN), multi-currency (BRL/USD), built for Brazil + US.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 [![Status](https://img.shields.io/badge/status-in%20development-yellow?style=flat-square)]()
 
